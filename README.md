@@ -1,5 +1,3 @@
-Here’s an updated README to reflect the need to run `project.py` first and then `collection.py`:
-
 ---
 
 # Amazon Web Scraper
